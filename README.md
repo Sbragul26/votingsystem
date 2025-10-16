@@ -1,6 +1,5 @@
 # Test Results - Blockchain Voting System
 
-This document outlines the successful testing of our blockchain-based voting system's authentication and navigation features. We ran automated tests to ensure everything works smoothly, from user registration to secure access to voting pages. Below, you’ll find the results, presented in a way that’s easy to follow.
 
 ## Table 1: Authentication Test Cases (8 Cases)
 
@@ -28,7 +27,6 @@ This document outlines the successful testing of our blockchain-based voting sys
 ## Summary and Takeaways
 
 - **All Tests Passed!** Our test results show *Test Suites: 3 passed, 3 total* and *Tests: 13 passed, 13 total*. This confirms that the voting system’s authentication and navigation features are working as designed, ensuring a secure and smooth experience for voters.
-- **Console Notes:** We noticed some informational warnings about React Router’s future flags in the console. These are harmless and don’t affect the system’s performance.
-- **Clear Feedback:** The ✅ PASSED messages we added to the tests are visible in the output, making it easy to connect each test case to its result.
+
 
 This testing ensures our blockchain voting system is secure, user-friendly, and ready for voters to use with confidence.
